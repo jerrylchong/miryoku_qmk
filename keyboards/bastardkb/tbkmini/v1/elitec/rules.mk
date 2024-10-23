@@ -18,6 +18,3 @@ RGB_MATRIX_ENABLE = yes     # Enable keyboard RGB matrix (do not use together wi
 RGB_MATRIX_DRIVER = WS2812  # RGB matrix driver support
 
 SPLIT_KEYBOARD = yes
-VIA = yes
-FORCE_NKRO = yes
-VIA_ENABLE = yes
