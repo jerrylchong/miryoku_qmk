@@ -10,3 +10,4 @@ jobs:
     with:
       keyboard: '["bastardkb/tbkmini/v1/elitec"]'
       nav: '["invertedt"]'
+      clipboard: '["mac"]'
