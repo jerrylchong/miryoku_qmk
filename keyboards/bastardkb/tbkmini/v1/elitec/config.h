@@ -25,7 +25,9 @@
     { B4, E6, C6, B1, B3, B2 }
 
 /* Handedness. */
-#define MASTER_RIGHT
+#define MASTER_LEFT
+#define FORCE_NKRO
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
 
 /* RGB settings. */
 #define RGB_DI_PIN D2
