@@ -25,7 +25,7 @@
     { B4, E6, C6, B1, B3, B2 }
 
 /* Handedness. */
-#define MASTER_LEFT
+#define MASTER_RIGHT
 #define FORCE_NKRO
 
 /* RGB settings. */
