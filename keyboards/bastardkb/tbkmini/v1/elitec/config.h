@@ -27,7 +27,6 @@
 /* Handedness. */
 #define MASTER_LEFT
 #define FORCE_NKRO
-#define PERMISSIVE_HOLD
 
 /* RGB settings. */
 #define RGB_DI_PIN D2
